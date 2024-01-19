@@ -2,17 +2,17 @@
 
 # X-Ui Panel
 
-X_DOMAIN = "YOUR_DOMAIN"
-X_PORT = "YOUR_PORT"
-X_USERNAME = "YOUR_USERNAME"
-X_PASSWORD = "YOUR_PASSWORD"
-X_HTTPS = False  # Set to True to use HTTPS, False to use HTTP
+X_DOMAIN = "am1.amkoh.site"
+X_PORT = "2087"
+X_USERNAME = "amir"
+X_PASSWORD = "@mir808777@"
+X_HTTPS = True  # Set to True to use HTTPS, False to use HTTP
 X_FORK = 1 # Set to 1 if you have MHSanaie, Set to 2 if you have Alireza (Default: MHSanaie)
 
 # Marzban Panel
 
-M_DOMAIN = "YOUR_DOMAIN"
-M_PORT = "YOUR_PORT"
-M_USERNAME = "YOUR_USERNAME"
-M_PASSWORD = "YOUR_PASSWORD"
-M_HTTPS = False  # Set to True to use HTTPS, False to use HTTP
+M_DOMAIN = "amzc.pizzako.site"
+M_PORT = "2053"
+M_USERNAME = "amir"
+M_PASSWORD = "@mir80877@"
+M_HTTPS = True  # Set to True to use HTTPS, False to use HTTP
